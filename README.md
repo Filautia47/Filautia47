@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning frontend
+- 🤔 I’m looking for help with UX desing, frontend and how the internet function
+- 💬 Ask me about my progress!
+- 📫 You can reach me on my email: davimdasil@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm Brazillian and i'm trying to learn english as the same time i learning frontend and github functions
 
 <!--
 **Filautia47/Filautia47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
